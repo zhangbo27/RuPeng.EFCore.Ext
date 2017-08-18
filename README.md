@@ -7,4 +7,5 @@ modelBuilder.ApplyConfigurationsFromAssembly(asmServices);
 ```
 安装方法：
 >Install-Package RuPeng.EFCore.EntityTypeConfig
-
+ 
+此开发包由如鹏网杨中科老师开发，学中国最牛逼的.Net课程，到[如鹏网](http://www.rupeng.com)！
